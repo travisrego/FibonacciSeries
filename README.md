@@ -6,4 +6,4 @@ Fibonacci Series Project from prepo. I found this one cool and interesting to sh
 
 ## Preview
 
-![FibonacciSeries](https://github.com/travisrego/imagur/blob/main/gif/FibonacciSeries.gif?raw=true)
+![FibonacciSeries](https://github.com/travisrego/FibonacciSeries/blob/master/assets/FibonacciSeries.gif?raw=true)
